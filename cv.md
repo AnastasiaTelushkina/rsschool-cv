@@ -5,11 +5,13 @@ GitHub - [@AnastasiaTelushkina](https://github.com/AnastasiaTelushkina)
 
 Mail - telushkinanasta@gmail.com
 
-Telegram - @th_nderstr_ck\
+Telegram - @th_nderstr_ck
+
 
 ********* 
 ## About Me
-22 years old motivated junior front end developer looking for job. Passionate about building first-class web applications. Capable of continuous learning.\
+22 years old motivated junior front end developer looking for job. Passionate about building first-class web applications. Capable of continuous learning.
+
 
 ********* 
 ## Skills
@@ -17,7 +19,8 @@ Telegram - @th_nderstr_ck\
 * CSS (Bootstrap, SASS/SCSS, BEM)
 * JavaScript (Fundamentals, ES6+, DOM, JSON)
 * Git
-* Figma/Photoshop\
+* Figma/Photoshop
+
 
 ********* 
 ## Code examples
@@ -36,13 +39,15 @@ const sortArray = (array) => {
 ## Education
 #### 2018 - 2022 
 Bachelor, Saint Petersburg Electrotechnical University «LETI»\
-Faculty of Computer Technologies and Informatics. \
+Faculty of Computer Technologies and Informatics. 
+
 
 ********* 
 ## Experience
  
 #### 2022 - Now
-I have been developing low-code banking applications with **JavaScript**\
+I have been developing low-code banking applications with **JavaScript**
+
 
 ********* 
 ## English
