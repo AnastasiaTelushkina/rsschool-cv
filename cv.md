@@ -49,7 +49,7 @@ Faculty of Computer Technologies and Informatics.
 I have been developing low-code banking applications with **JavaScript**
 
 
-********* 
-## English
- 
-**EPAM English test result:** C1(from 2021) I have very little speaking practice, advanced reading and listening
+*********  
+## Languages
+* **English** - EPAM English test result: C1(from 2021) I have very little speaking practice, advanced reading and listening
+* **Russian** - Native 
